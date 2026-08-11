@@ -1,0 +1,87 @@
+{
+    "rapor_tarihi": "2026-08-11_23-33-41",
+    "sistem": {
+        "hostname": "mustafa-ev",
+        "isletim_sistemi": "Windows 11",
+        "islemci": "Intel64 Family 6 Model 189 Stepping 1, GenuineIntel",
+        "cekirdek_sayisi": 8,
+        "toplam_ram_gb": 31.57
+    },
+    "disk_durumu": [
+        {
+            "surucu": "C:\\",
+            "toplam_gb": 952.97,
+            "kullanilan_gb": 646.08,
+            "bos_gb": 306.89,
+            "yuzde": 67.8
+        }
+    ],
+    "ag_yapilandirmasi": {
+        "Ethernet 2": [
+            {
+                "mac": "00-09-0F-FE-00-01"
+            },
+            {
+                "ip": "169.254.231.3",
+                "netmask": "255.255.0.0"
+            }
+        ],
+        "Yerel Ağ Bağlantısı": [
+            {
+                "mac": "00-FF-E1-F4-9C-AA"
+            },
+            {
+                "ip": "169.254.166.222",
+                "netmask": "255.255.0.0"
+            }
+        ],
+        "Wi-Fi 3": [
+            {
+                "mac": "E6-1F-D5-0F-87-FA"
+            },
+            {
+                "ip": "169.254.185.143",
+                "netmask": "255.255.0.0"
+            }
+        ],
+        "Wi-Fi 4": [
+            {
+                "mac": "E4-1F-D5-0F-87-FB"
+            },
+            {
+                "ip": "169.254.86.21",
+                "netmask": "255.255.0.0"
+            }
+        ],
+        "Wi-Fi 2": [
+            {
+                "mac": "E4-1F-D5-0F-87-FA"
+            },
+            {
+                "ip": "192.168.1.104",
+                "netmask": "255.255.255.0"
+            }
+        ],
+        "Bluetooth Ağ Bağlantısı": [
+            {
+                "mac": "E4-1F-D5-0F-87-FE"
+            },
+            {
+                "ip": "169.254.201.240",
+                "netmask": "255.255.0.0"
+            }
+        ],
+        "OpenVPN Data Channel Offload": [
+            {
+                "ip": "169.254.188.34",
+                "netmask": "255.255.0.0"
+            }
+        ],
+        "Loopback Pseudo-Interface 1": [
+            {
+                "ip": "127.0.0.1",
+                "netmask": "255.0.0.0"
+            }
+        ]
+    }
+}
